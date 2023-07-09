@@ -1,4 +1,4 @@
-- 🌱 Currently learning ReactJS
+- 🌱 Currently learning ReactJS & NEXTJS
 - 📫 iam@candace.monster
 - ⚡  ☕️ espresso addict
 
