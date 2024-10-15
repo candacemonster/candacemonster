@@ -1,5 +1,5 @@
 - 🌱 Currently learning ReactJS & NEXTJS
-- 📫 icandace@protonmail.com
+- 📫 hello@candacewoodbury.com
 - ⚡  ☕️ espresso addict
 
 
